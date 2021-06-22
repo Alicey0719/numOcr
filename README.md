@@ -4,6 +4,8 @@
 
 ## 環境構築
 以下インストールが必要  
+* Python  
+
 * PyOCR  
 例: `pip3 install pyocr`
 
