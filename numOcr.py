@@ -32,7 +32,8 @@ afterDir = './bunrui'
 print('- Start -')
 files = file_list(path)
 print('FileCount:',len(files))
-files = random.sample(files, 11000)
+## 元ファイルをランダムに抽出する際に利用
+#files = random.sample(files, 11000)
 notFoundCount = 0
 
 for f in files:
