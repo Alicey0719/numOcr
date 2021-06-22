@@ -11,3 +11,7 @@
 
 * Tesseract  
 例: `brew install tesseract`
+
+
+## 実験結果  
+ブログ: [PythonとOCRで数字を振り分け](https://blog.alicey.dev/2021/06/pythonocr.html)
